@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="275" height="335" viewBox="0 0 275 335">
+  <g id="Tabs" transform="translate(-99 -363)">
+    <text id="Home" transform="translate(99 363)" font-size="50" font-family="Lato-Light, Lato" font-weight="300"><tspan x="0" y="49">Home</tspan></text>
+    <text id="Work" transform="translate(99 501)" font-size="50" font-family="Lato-Light, Lato" font-weight="300"><tspan x="0" y="49">Work</tspan></text>
+    <text id="Our_Team" data-name="Our Team" transform="translate(99 569)" font-size="50" font-family="Lato-Light, Lato" font-weight="300"><tspan x="0" y="49">Our Team</tspan></text>
+    <text id="Contact_us" data-name="Contact us" transform="translate(99 638)" font-size="50" font-family="Lato-Light, Lato" font-weight="300"><tspan x="0" y="49">Contact us</tspan></text>
+    <text id="What_we_do" data-name="What we do" transform="translate(99 432)" font-size="50" font-family="Lato-Light, Lato" font-weight="300"><tspan x="0" y="49">What we do</tspan></text>
+  </g>
+</svg>
